@@ -1,0 +1,16 @@
+{
+   "libraries" : [
+      {
+         "gameTrueversion" : "1.12.2",
+         "gamedir" : "1.12.2",
+         "gamepath" : "E:/MINECRAFT/.minecraft",
+         "gameversion" : "1.12.2",
+         "ischecked" : true,
+         "isid" : 1,
+         "isjava" : 1,
+         "ismc" : 1,
+         "ismod" : 1,
+         "isskin" : 1
+      }
+   ]
+}
